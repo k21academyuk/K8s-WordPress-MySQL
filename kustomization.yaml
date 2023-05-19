@@ -9,3 +9,5 @@ resources:
   - wp-pv-claim.yaml
   - mysql-service.yaml
   - wordpress-service.yaml
+  - sql-pv.yaml
+  - wp-pv.yaml
