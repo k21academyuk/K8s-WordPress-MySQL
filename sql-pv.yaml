@@ -6,7 +6,7 @@ spec:
   capacity:
     storage: 400M
   accessModes:
-    - ReadWriteOnce
+    - ReadWriteMany
   persistentVolumeReclaimPolicy: Retain
   hostPath:
           path: /mnt/data/sql
